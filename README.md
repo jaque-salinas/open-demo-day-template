@@ -68,3 +68,12 @@ GitHub Pages se publica desde `main` y `/(root)`. Confirma el estado en **Settin
 
 - [Workshop publicado](https://opendemodays.github.io/open-demo-day-template/)
 - [Workshop de referencia: Unified Workload Migration with KubeVirt](https://psehgaft.github.io/UnifiedWorkloadMigration-Kubevirt/)
+
+
+## Contributors
+
+- [@jaque-salinas](https://github.com/jaque-salinas) — fork maintainer
+- [@psehgaft](https://github.com/psehgaft) — contributor
+- [@san985tos](https://github.com/san985tos) — contributor
+- [@frankjunker87-arch](https://github.com/frankjunker87-arch) — contributor
+- [@tec-girl](https://github.com/tec-girl) — contributor
